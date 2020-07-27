@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm just a boring Web Dev who's real passion is game design... 
+I'm a web dev,,, secretly I want to be a game dev... Shhhh,,, don't tell anyone! 
 
 - 🔭 I’m currently working on learning how to Game Dev!
 
