@@ -2,7 +2,7 @@
 
 I'm a web dev,,, secretly I want to be a game dev... Shhhh,,, don't tell anyone! 
 
-- 🔭 I’m currently working on learning how to Game Dev!
+- 🔭 I’m currently working on a text adventure game engine with a client implemented using Blazor!
 
 <!--
 **frankhale/frankhale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
