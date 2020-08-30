@@ -2,7 +2,7 @@
 
 I'm a web dev,,, secretly I want to be a game dev... Shhhh,,, don't tell anyone!
 
-- 🔭 I'm working on two personal projects right now, one is a YouTube Player written in C#/Blazor (server side) and the other is a text adventure game engine with a custom entity component system also in Blazor/C# (server side).
+- 🔭 Most of the stuff I'm working on lately is C#/.NET Core/Blazor based
 
 <!--
 **frankhale/frankhale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
