@@ -12,4 +12,4 @@ I'm really interested in game development and am trying my hand at it. I've got
 a lot to learn!!!
 
 [![Frank Hale's GitHub stats](https://github-readme-stats.vercel.app/api?username=frankhale&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frankhale&layout=compact&hide=css,html,viml)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frankhale&exclude_repo=mydotfiles&layout=compact&hide=css,html)](https://github.com/anuraghazra/github-readme-stats)
