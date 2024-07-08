@@ -1,15 +1,18 @@
-### Hi there 👋
+### About Me
 
-From the time I was introduced to a Commodore 64 I instantly fell in love with
-software development. I think we are living in the golden age of software
-development. We have access to a seemlingly limitless knowledge base on the
-Internet and our tools are evolving at light speed. My passions right now is
-.NET/C# and Blazor. I'm also a huge fan of TypeScript and React and Node.
+I love to write code and run ultra marathons!
 
-I wrote a simple app called [Electron + Express](https://github.com/frankhale/electron-with-express) that got over 400 stars. I'm still shocked by that!
+### Languages and Frameworks
+![C++](https://img.shields.io/badge/-C++-000?&logo=cplusplus)
+![C#](https://img.shields.io/badge/-C%23-000?&logo=dotnet)
+![Lua](https://img.shields.io/badge/-Lua-000?&logo=lua)
+![JavaScript](https://img.shields.io/badge/JavaScript-000?logo=JavaScript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Angular](https://img.shields.io/badge/-Angular-000?&logo=angular)
+![Express](https://img.shields.io/badge/-Express-000?&logo=Express)
 
-I'm really interested in game development and am trying my hand at it. I've got
-a lot to learn!!!
+### Accounts
 
-[![Frank Hale's GitHub stats](https://github-readme-stats.vercel.app/api?username=frankhale&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frankhale&exclude_repo=mydotfiles&layout=compact&hide=css,html)](https://github.com/anuraghazra/github-readme-stats)
+[![Email Badge](https://img.shields.io/badge/frankhaledevelops@gmail.com-223344?style=flat-square&logo=Gmail&logoColor=white&link=mailto:frankhaledevelops@gmail.com)](mailto:frankhaledevelops@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-frankhale-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/frank-hale-baa619244/)](https://www.linkedin.com/in/frank-hale-baa619244/)
