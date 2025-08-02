@@ -4,7 +4,7 @@ I love to write code and run ultra marathons!
 
 ### Stuff I Use
 
-![Rust](https://img.shields.io/badge/-Rust-000?&logo=rust)
+![Go](https://img.shields.io/badge/-Go-000?&logo=go)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=cplusplus)
 ![C#](https://img.shields.io/badge/-C%23-000?&logo=dotnet)
 ![Asp.Net](https://img.shields.io/badge/-Asp.Net-000?&logo=dotnet)
