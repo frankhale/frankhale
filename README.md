@@ -7,10 +7,12 @@ I love to write code and run ultra marathons!
 ![Go](https://img.shields.io/badge/-Go-000?&logo=go)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=cplusplus)
 ![C#](https://img.shields.io/badge/-C%23-000?&logo=dotnet)
+![Java](https://img.shields.io/badge/-Java-000?&logo=openjdk)
 ![Lua](https://img.shields.io/badge/-Lua-000?&logo=lua)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=python)
 ![Asp.Net](https://img.shields.io/badge/-Asp.Net-000?&logo=dotnet)
 ![Blazor](https://img.shields.io/badge/-Blazor-000?&logo=blazor)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-000?&logo=springboot)
 ![SQLite](https://img.shields.io/badge/-SQLite-000?&logo=sqlite)
 ![Postgresql](https://img.shields.io/badge/-PostgreSQL-000?&logo=postgresql)
 ![Godot](https://img.shields.io/badge/-Godot-000?&logo=godotengine)
@@ -38,3 +40,4 @@ I love to write code and run ultra marathons!
 
 [![Email Badge](https://img.shields.io/badge/frankhaledevelops@gmail.com-223344?style=flat-square&logo=Gmail&logoColor=white&link=mailto:frankhaledevelops@gmail.com)](mailto:frankhaledevelops@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-frankhale-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/frank-hale-baa619244/)](https://www.linkedin.com/in/frank-hale-baa619244/)
+[![Instagram Badge](https://img.shields.io/badge/-frank.runs.tampa-FF0069?style=flat-square&logo=instagram&logoColor=#FF0069&link=https://www.instagram.com/frank.runs.tampa)](https://www.instagram.com/frank.runs.tampa)
