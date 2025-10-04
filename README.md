@@ -30,11 +30,13 @@ I love to write code and run ultra marathons!
 ![Markdown](https://img.shields.io/badge/-Markdown-000?&logo=markdown)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-000)
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-000)
+![IntelliJIDEA](https://img.shields.io/badge/-IntelliJ-000?logo=intellijidea)
 ![CLion](https://img.shields.io/badge/-CLion-000?logo=clion)
 ![Rider](https://img.shields.io/badge/-Rider-000?logo=Rider)
 ![GoLand](https://img.shields.io/badge/-GoLand-000?logo=GoLand)
 ![PyCharm](https://img.shields.io/badge/-PyCharm-000?logo=PyCharm)
 ![WebStorm](https://img.shields.io/badge/-WebStorm-000?logo=WebStorm)
+![DataGrip](https://img.shields.io/badge/-DataGrip-000?logo=DataGrip)
 
 ### Accounts
 
